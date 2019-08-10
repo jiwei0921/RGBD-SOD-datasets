@@ -1,7 +1,6 @@
 # RGBD-SOD-datasets
 All those partitioned **RGB-D Saliency Datasets** we collected are shared in ready-to-use manner.
-## Evaluation Metrics
-$E_measure$
+
 ## Please cite our paper if you use our dataset in your research
 ```
 @InProceedings{Piao_2019_ICCV,       
@@ -11,3 +10,8 @@ $E_measure$
    year = {2019}     
 }  
 ```
+## Evaluation Metrics
+**Metrics** | * | * | * | *
+:-: | :-: | :-: | :-: | :-:
+**E-measure** | **S-measure** | **F-measure** | **MAE** | **PR-curves**| 
+Integration into a easy way. | *| * | * | The link is [here](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox)|
