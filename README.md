@@ -2,7 +2,7 @@
 All common **RGB-D Saliency Datasets** we collected are shared in ready-to-use manner.
 
 ## RGB-D Saliency Datasets
-**Datasets** | NJUD | DUT-RGBD | NLPR | SIP | STEREO | LFSD | RGBD135 | SSD
+**Datasets** | NJUD | DUTLF-Depth | NLPR | SIP | STEREO | LFSD | RGBD135 | SSD
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
 **Size** | 1985 | 1200 | 1000 | 929 | 797/1000 | 100 | 135 | 80| 
 **Publication** | [ICIP](http://dpfan.net/wp-content/uploads/NJU2K_dataset_ICIP14.pdf) | [ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Piao_Depth-Induced_Multi-Scale_Recurrent_Attention_Network_for_Saliency_Detection_ICCV_2019_paper.pdf) | [ECCV](http://dpfan.net/wp-content/uploads/NLPR_dataset_ECCV14.pdf) | [arXiv](https://arxiv.org/pdf/1907.06781.pdf) | [CVPR](http://dpfan.net/wp-content/uploads/STERE_dataset_CVPR12.pdf) | [CVPR](http://dpfan.net/wp-content/uploads/LFSD_dataset_CVPR14.pdf) | [ICIMCS](http://dpfan.net/wp-content/uploads/DES_dataset_ICIMCS14.pdf) | [ICCVW](http://dpfan.net/wp-content/uploads/SSD_dataset_ICCVW17.pdf)| 
@@ -10,7 +10,7 @@ All common **RGB-D Saliency Datasets** we collected are shared in ready-to-use m
 + Tips: All data is uniformly resized to 256×256 for training purposes.
 
 ## Citation
-+ Please cite our paper if you use our dataset (**DUT-RGBD**) in your research 
++ Please cite our paper if you use our dataset (**DUTLF-Dept**) in your research 
 ```
 @InProceedings{Piao_2019_ICCV,       
    author = {Yongri {Piao} and Wei {Ji} and Jingjing {Li} and Miao {Zhang} and Huchuan {Lu}},   
