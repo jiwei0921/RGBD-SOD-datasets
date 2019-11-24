@@ -10,7 +10,7 @@ All common **RGB-D Saliency Datasets** we collected are shared in ready-to-use m
 + Tips: All data is uniformly resized to 256×256 for training purposes.
 
 ## Citation
-+ Please cite our paper if you use our dataset (**DUTLF-Dept**) in your research 
++ Please cite our paper if you use our dataset (**DUTLF-Depth**) in your research 
 ```
 @InProceedings{Piao_2019_ICCV,       
    author = {Yongri {Piao} and Wei {Ji} and Jingjing {Li} and Miao {Zhang} and Huchuan {Lu}},   
