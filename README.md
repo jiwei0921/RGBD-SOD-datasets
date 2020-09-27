@@ -27,4 +27,4 @@ Integration into a easy way. | *| * | * | The link is [here](https://github.com/
 + This Toolbox contains near all evaluation metrics for salient object detection including E-measure, S-measure, weighted F & F-measure, MAE scores and PR curves or bar metrics.
 
 ### Contact Us
-If you have any questions, please contact us ( jiwei521@mail.dlut.edu.cn ).
+If you have any questions, please contact us ( weiji.dlut@gmail.com ).
