@@ -1,6 +1,15 @@
 # RGBD-SOD-datasets
 All common **RGB-D Saliency Datasets** we collected are shared in ready-to-use manner.
 
+---
+## Ready-to-use Package
+### We directly provide a ready-to-use download package, including all test sets, and two popular training sets in the RGB-D Saliency Detection.
++ All test datasets, [fetch code is **b2p2**](https://pan.baidu.com/s/1sx1En1ecNyDf12jNGFeYZQ).
++ Training dataset 1, including NJUD and NLPR, [fetch code is **76gu**](https://pan.baidu.com/s/1sNxe3Szu7O_Qci1OGmKIKQ).
++ Training dataset 2, including NJUD and NLPR, DUT, [fetch code is **201p**](https://pan.baidu.com/s/19aiosd_73VGMg7PB7HJzww).
+
+---
+
 ## RGB-D Saliency Datasets
 **Datasets** | NJUD | DUTLF-Depth | NLPR | SIP | STEREO | LFSD | RGBD135 | SSD | ReDWeb-S
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
