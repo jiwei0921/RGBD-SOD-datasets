@@ -21,12 +21,13 @@ All common **RGB-D Saliency Datasets** we collected are shared in ready-to-use m
 ## Citation
 + Please cite our paper if you use our dataset (**DUTLF-Depth**) in your research 
 ```
-@InProceedings{Piao_2019_ICCV,       
-   author = {Yongri {Piao} and Wei {Ji} and Jingjing {Li} and Miao {Zhang} and Huchuan {Lu}},   
-   title = {Depth-induced Multi-scale Recurrent Attention Network for Saliency Detection},     
-   booktitle = "ICCV",     
-   year = {2019}     
-}  
+@inproceedings{piao2019depth,
+  title={Depth-induced multi-scale recurrent attention network for saliency detection},
+  author={Piao, Yongri and Ji, Wei and Li, Jingjing and Zhang, Miao and Lu, Huchuan},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={7254--7263},
+  year={2019}
+} 
 ```
 ## Evaluation Metrics
 **[Metrics](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox)** | * | * | * | *
